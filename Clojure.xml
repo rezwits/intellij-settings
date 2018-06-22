@@ -1,5 +1,6 @@
 <application>
   <component name="ClojureIdeSettings">
+    <option name="replTimeout" value="600" />
     <option name="structuralStyle" value="0" />
   </component>
 </application>
